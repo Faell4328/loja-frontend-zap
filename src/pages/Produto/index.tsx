@@ -123,8 +123,8 @@ export default function Produto(){
 
     return(
             ( produto !== null &&  (Object.keys(produto).length > 0)) ? (
-                <div className='fundo-gradient w-full' style={{minHeight: alturaPagina}}>
-                    <div className='block md:flex max-w-5xl md:h- mx-auto py-12'>
+                <div className='block lg:flex items-center fundo-gradient w-full h-full' style={{minHeight: alturaPagina}}>
+                    <div className='md:flex max-w-5xl md:h-full mx-auto py-12'>
                         <div className='w-9/10 md:w-4/10 mx-auto'>
                             <CarroselProduto produtosImagem={produto.imagem} />
                         </div>
