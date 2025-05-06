@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.container-item-carrosel{
+    outline: none;
+}
+
+.fundo-gradient{
+    background-image: linear-gradient(to top, rgba(243, 200, 96, 0.7), rgba(238, 238, 238, 1));
+}

@@ -1,0 +1,113 @@
+{
+    "promocao": [
+        {
+            "id": 1,
+            "nome": "Roupa 1",
+            "valor": 30.01,
+            "imagem": ["/imagens/imagem 1.jpg"]
+        },
+        {
+            "id": 2,
+            "nome": "Roupa 2",
+            "valor": 30.50,
+            "imagem": ["/imagens/imagem 3.jpg"]
+        },
+        {
+            "id": 3,
+            "nome": "Roupa 3",
+            "valor": 30,
+            "imagem": ["/imagens/imagem 4.jpg"]
+        },
+        {
+            "id": 4,
+            "nome": "Roupa 4",
+            "valor": 56.99,
+            "imagem": ["/imagens/imagem 5.jpg"]
+        }
+    ],
+    "novidade": [
+        {
+            "id": 5,
+            "nome": "Roupa 8",
+            "valor": 32,
+            "imagem": ["/imagens/imagem 6.jpg"]
+        },
+        {
+            "id": 6,
+            "nome": "Roupa 9",
+            "valor": 39,
+            "imagem": ["/imagens/imagem 7.jpg"]
+        }
+    ],
+    "todos":[
+        {
+            "id": 8,
+            "nome": "Roupa 15",
+            "valor": 32,
+            "imagem": ["/imagens/imagem 9.jpg"]
+        }
+    ],
+    "geral": [
+        {
+            "id": 1,
+            "nome": "Roupa 1",
+            "valor": 30.01,
+            "imagem": ["/imagens/imagem 1.jpg", "/imagens/imagem 2.jpg"],
+            "descricao": "Descricão da roupa 1",
+            "tamanho": ["p", "m", "g", "gg", "xg", "xgg"]
+        },
+        {
+            "id": 2,
+            "nome": "Roupa 2",
+            "valor": 30.55,
+            "imagem": ["/imagens/imagem 3.jpg"],
+            "descricao": "Descricão da roupa 2",
+            "tamanho": ["p", "m", "g", "gg", "xg", "xgg"]
+        },
+        {
+            "id": 3,
+            "nome": "Roupa 3",
+            "valor": 30,
+            "imagem": ["/imagens/imagem 4.jpg"],
+            "descricao": "Descricão da roupa 3",
+            "tamanho": ["p", "m", "g", "gg", "xg", "xgg"]
+        },
+        {
+            "id": 4,
+            "nome": "Roupa 4",
+            "valor": 56.99,
+            "imagem": ["/imagens/imagem 5.jpg"],
+            "descricao": "Descricão da roupa 4",
+            "tamanho": ["p", "m"]
+        },
+        {
+            "id": 5,
+            "nome": "Roupa 8",
+            "valor": 32,
+            "imagem": ["/imagens/imagem 6.jpg"],
+            "descricao": "Descricão da roupa 5",
+            "tamanho": ["p", "m", "xg", "xgg"]
+        },
+        {
+            "id": 6,
+            "nome": "Roupa 9",
+            "valor": 39,
+            "imagem": ["/imagens/imagem 7.jpg"],
+            "descricao": "Descricão da roupa 7",
+            "tamanho": ["p", "xg", "xgg"]
+        },
+        {
+            "id": 7,
+            "nome": "Roupa 10",
+            "valor": 71,
+            "imagem": ["/imagens/imagem 8.jpg"]
+        },
+        {
+            "id": 8,
+            "nome": "Roupa 15",
+            "valor": 32,
+            "imagem": ["/imagens/imagem 9.jpg"],
+            "tamanho": ["g", "gg"]
+        }
+    ]
+}
